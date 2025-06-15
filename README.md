@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jordy2/Jordy2/blob/main/Banner2.png" alt="Banner animado" width="1280" height="400"/>
+  <img src="https://github.com/Jordy2/Jordy2/blob/main/Banner2.png" alt="Banner animado" width="1280" height="300"/>
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jordy2&label=Profile%20views&color=ff005c&style=flat-square"/>
