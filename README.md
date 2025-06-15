@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://your-image-link.gif" alt="Banner animado" width="800"/>
+</p>
 <h1 align="center">¡Hola! Soy Jordy 👋</h1>
 <h3 align="center">Soy estudiante de Ingeniería en Software con paso por el desarrollo y la innovación. Me encanta aprender, programar y crear soluciones que marquen la diferencia.</h3>
 
@@ -32,14 +35,6 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordy2&show_icons=true&locale=en" alt="jordy2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordy2&" alt="jordy2" /></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
-</p>
 
 <footer align="center">
   <sub>Creado con ❤️ por Jordy | ¡Let's code! 🚀</sub>
