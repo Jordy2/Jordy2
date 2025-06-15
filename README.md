@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.gif" alt="Banner animado" width="800"/>
+  <img src="https://github.com/Jordy2/Jordy2/blob/main/Banner2.png" alt="Banner animado" width="1280" height="400"/>
 </p>
 
 # ¡Hola! Soy **Jordy** 👋
